@@ -1,0 +1,17 @@
+
+body {
+    background-color: #000000de!important;
+    color: white!important;
+    padding: 84px 0!important;
+}
+.container {
+    max-width: 966px!important;
+}
+#para {
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 25px;
+}
+.none{
+    display: none;
+}
